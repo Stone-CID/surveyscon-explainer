@@ -3,3 +3,5 @@ node_modules/
 private/
 *.log
 test-results/
+# Readable exports stay local; the published HTML files are password pages.
+/*.html.html
